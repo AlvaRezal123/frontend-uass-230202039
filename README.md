@@ -85,6 +85,11 @@ frontend-uass-230202039/
 https://github.com/AlvaRezal123/frontend-uass-230202039
 
 ## 💻 Visual Program
+![Deskripsi Gambar](public/images/dashboardnew.png)
+
+![Deskripsi Gambar](public/images/Tabel.png)
+![Deskripsi Gambar](public/images/tambah.png)
+
 
 
 
